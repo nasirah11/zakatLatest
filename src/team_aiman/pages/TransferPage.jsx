@@ -1,5 +1,5 @@
 import React from "react";
-import TransferStatusCard from "../../../src/teams/components/TransferStatusCard";
+import TransferStatusCard from "../../../src/team_aiman/components/TransferStatusCard";
 
 export default function TransferPage({ transfer, onBack }) {
   return (

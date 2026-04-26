@@ -1,5 +1,5 @@
 import React from "react";
-import PaymentCard from "../../../src/teams/components/PaymentCard";
+import PaymentCard from "../../../src/team_aiman/components/PaymentCard";
 
 export default function PaymentPage({ payment, onPay, onBack }) {
   return (

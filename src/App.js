@@ -1,5 +1,5 @@
 import React from "react";
-import HerApp from "./teams/App";
+import HerApp from "./team_aiman/App";
 
 function App() {
   return <HerApp />;

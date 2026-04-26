@@ -1,6 +1,6 @@
 import React from "react";
-import ResultCard from "../../../src/teams/components/ResultCard";
-import ActionButtons from "../../../src/teams/components/ActionButtons";
+import ResultCard from "../../../src/team_aiman/components/ResultCard";
+import ActionButtons from "../../../src/team_aiman/components/ActionButtons";
 
 export default function ResultPage({ result, onSave, onReset, onProceed }) {
   return (
